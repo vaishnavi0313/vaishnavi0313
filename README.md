@@ -140,9 +140,9 @@ Security Practice Environments
 ## Cisco Networking Academy
 
 <p align="center">
-<img src="images/networking-basics.png" width="250"/>
-<img src="images/iot-cert.jpeg" width="250"/>
-<img src="images/cybersecurity-cert.jpeg" width="250"/>
+<img src="images/cisco-networking basics.png" width="250"/>
+<img src="images/cisco-iot.jpeg" width="250"/>
+<img src="images/cisco-cybersecurity.jpeg" width="250"/>
 </p>
 
 ---
@@ -170,11 +170,21 @@ SSM Institute of Engineering and Technology
 2023 – 2027
 
 ---
+---
+---
 
-# 📈 GitHub Activity
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi0313&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi0313&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi0313&theme=tokyonight"/>
 </p>
 
 ---
