@@ -1,209 +1,180 @@
-<h1 align="center">🛡️ VAISHNAVI K</h1>
-<h3 align="center">Cybersecurity Engineer | AI Threat Detection Developer | IIoT Security Architect</h3>
+<h1 align="center">👩‍💻 Vaishnavi K</h1>
+
+<h3 align="center">
+Cyber Security | VAPT | Cloud Security | Web Application Security | IoT Security
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=750&lines=Cybersecurity+Engineer;AI-Powered+Threat+Detection+Systems;Industrial+IoT+Security+Researcher;Cloud+Security+Enthusiast;Ethical+Hacker+in+Progress" />
+<img src="https://komarev.com/ghpvc/?username=vaishnavi0313&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
-# 👩‍💻 ABOUT ME
+# 🧑‍💻 About Me
 
-I am a Cybersecurity Engineering student specializing in AI-driven threat detection, vulnerability assessment, Industrial IoT security, and secure cloud architecture.
+Pre-Final Year **B.E – CSE (Cybersecurity)** student at **SSM Institute of Engineering and Technology (SSMIET)** with hands-on learning in **Vulnerability Assessment and Penetration Testing (VAPT), threat analysis, and secure system design.**
 
-I focus on building intelligent, real-time security systems capable of detecting phishing attacks, monitoring industrial sensor networks, and protecting cloud-based infrastructures.
-
----
-
-# 🎯 CYBER MISSION
-
-> To design and implement AI-powered cybersecurity systems that proactively detect, analyze, and prevent modern cyber threats across IoT and cloud ecosystems.
+Currently exploring **Cloud Security architectures, Web Application vulnerabilities (OWASP Top 10), and IoT security monitoring** to understand and mitigate real-world cyber threats.
 
 ---
 
-# 🎓 EDUCATION
+# 📚 Current Learning
+
+- AWS Security
+- Vulnerability Assessment & Penetration Testing (VAPT)
+- Web Application Security
+- IoT Security Monitoring
+
+---
+
+# 🤝 Connect With Me
+
+🔗 **LinkedIn**  
+https://linkedin.com/in/vaishnavi0313
+
+📧 **Email**  
+vaishnavikannan036@gmail.com
+
+💻 **GitHub**  
+https://github.com/vaishnavi0313
+
+---
+
+# 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+# 🛠 Development Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+
+---
+
+# 🔐 Cyber Security Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
+
+![Nmap](https://img.shields.io/badge/Nmap-red?style=for-the-badge)
+
+![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+
+![Snort](https://img.shields.io/badge/Snort-purple?style=for-the-badge)
+
+![Nessus](https://img.shields.io/badge/Nessus-darkgreen?style=for-the-badge)
+
+![Maltego](https://img.shields.io/badge/Maltego-teal?style=for-the-badge)
+
+---
+
+# 🖥 Operating Systems
+
+![Kali Linux](https://img.shields.io/badge/KaliLinux-blue?style=for-the-badge)
+
+![Parrot OS](https://img.shields.io/badge/ParrotOS-green?style=for-the-badge)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge)
+
+---
+
+# 🚀 Projects
+
+### 🔹 AI Translator
+
+**Problem:** Language barriers limit communication between users worldwide.
+
+**Solution:** Developed a **Python-based AI translator using Googletrans API** supporting **100+ languages with real-time detection and translation.**
+
+---
+
+### 🔹 Intelligent Patient Health Monitoring System
+
+**Problem:** Healthcare monitoring systems require real-time patient health tracking.
+
+**Solution:** Built an **ESP32-based IoT health monitoring system integrated with AWS cloud** for real-time patient data monitoring and alert generation.
+
+---
+
+### 🔹 Industrial IoT Cyberattack Monitoring System
+
+**Problem:** Industrial IoT networks are vulnerable to cyber attacks targeting sensor systems.
+
+**Solution:** Designed a **secure IIoT monitoring platform using blockchain and TinyML anomaly detection.**
+
+---
+
+### 🔹 AI Phishing Detection System
+
+**Problem:** Phishing websites and malicious links expose users to cyber fraud.
+
+**Solution:** Developed an **AI-based phishing detection system capable of identifying malicious URLs and suspicious patterns.**
+
+---
+
+# 🧪 Cybersecurity Labs
+
+TryHackMe Labs  
+Security Practice Environments  
+
+---
+
+# 🎖 Certifications
+
+### Palo Alto Networks
+
+Security Operations Fundamentals  
+Issued: February 9, 2026
+
+---
+
+### Red Team Leaders
+
+Certified Cybersecurity Educator Professional (CCEP)  
+Issued: November 24, 2025
+
+---
+
+### Cisco Networking Academy
+
+Introduction to Cybersecurity
+
+Introduction to Internet of Things
+
+Networking Basics
+
+---
+
+# 🎓 Education
 
 **B.E – Computer Science and Engineering (Cybersecurity)**  
-SSM Institute of Engineering and Technology – Dindigul  
-2023 – 2027  
+SSM Institute of Engineering and Technology  
+2023 – 2027
 
 ---
 
-# 🛠️ TECHNICAL SKILL MATRIX
-
-## 💻 Programming & Development
-- Python (Automation, ML integration, backend logic)
-- JavaScript (DOM manipulation, event handling)
-- HTML5 & CSS3 (Responsive UI development)
-- React.js (Component-based frontend architecture)
-
----
-
-## 🔐 Cybersecurity & Penetration Testing
-- Network Scanning: Nmap
-- Vulnerability Assessment: Nessus, OWASP Zap
-- Web Security Testing: Burp Suite
-- Exploitation Framework: Metasploit
-- Packet Analysis: Wireshark
-- Intrusion Detection: Snort
-- OSINT Analysis: Maltego
-
----
-
-## 🌐 Networking & Operating Systems
-- TCP/IP, DNS, HTTP/HTTPS, Ports & Firewalls
-- Network Architecture Fundamentals
-- Kali Linux
-- Parrot OS
-- Ubuntu Linux
-
----
-
-## ☁️ Cloud & IoT Technologies
-- AWS Core Services (EC2, S3, IAM Basics)
-- Cloud Security Best Practices
-- ESP32 & Arduino-based IoT Systems
-- Sensor Data Monitoring & Real-Time Alerts
-- Secure Cloud Storage Integration
-
----
-
-# 🎯 CORE COMPETENCIES
-
-# 🧪 CURRENT LEARNING FOCUS
-
-- Advanced AI model optimization for phishing detection
-- TinyML for lightweight anomaly detection
-- Secure API development & backend hardening
-- AWS Identity & Access Management
-- Industrial IoT attack simulation techniques
-
----
-
-# 🧪 CYBER SECURITY LAB PROJECTS
-
-## 🛡️ PhishShield AI  
-**AI-Based Multi-Modal Phishing Detection System**
-
-### 🔎 Features
-- URL phishing detection using Machine Learning
-- Voice phishing detection via speech-to-text analysis
-- Deepfake video threat detection
-- Real-time threat alert dashboard
-- Backend server for automated threat analysis
-
-### 🧠 Technologies Used
-- Python
-- Machine Learning
-- HTML, CSS, JavaScript
-- Backend API Server
-
-### 🎯 Objective
-To build a real-time AI-driven system capable of detecting phishing attacks across multiple communication channels.
-
----
-
-## 🏭 IIoT Sentinel  
-**Industrial IoT Cyberattack Monitoring System**
-
-### 🔎 Features
-- Blockchain-based security layer for sensor data
-- SQL-based secure data storage
-- TinyML anomaly detection
-- Real-time monitoring dashboard (<5 sec alert system)
-- Detect-and-prevent system architecture
-
-### 🧠 Technologies Used
-- IoT Sensors
-- TinyML
-- SQL Database
-- Blockchain Integration
-- Web Dashboard
-
-### 🎯 Objective
-To protect industrial sensor networks from unauthorized access and cyberattacks using intelligent monitoring systems.
-
----
-
-## ❤️ MedSecure IoT  
-**Intelligent Patient Health Monitoring System**
-
-### 🔎 Features
-- ESP32/Arduino-based sensor data collection
-- Real-time health monitoring
-- AWS cloud storage integration
-- Automatic abnormal value alerts
-- Web-based monitoring dashboard
-
-### 🧠 Technologies Used
-- ESP32
-- Health Sensors
-- AWS Cloud
-- Web Application
-
-### 🎯 Objective
-To develop a scalable cloud-integrated smart healthcare monitoring system.
-
----
-
-## 🌍 AI Language Translator  
-**Multilingual Translation Utility**
-
-### 🔎 Features
-- Supports 100+ languages
-- Auto language detection
-- Real-time translation (~300ms response)
-- UTF-8 optimized text processing
-
-### 🧠 Technologies Used
-- Python
-- googletrans library
-
----
-
-# 📜 CERTIFICATIONS & TRAINING
-
-- **Cisco Networking Academy**
-  - Introduction to IoT
-  - Introduction to Cybersecurity
-  - Networking Basics
-
-- **AWS Cloud Practitioner** – In Progress
-
-- **Cognifyz Technologies**
-  - Full Stack Development Internship
-
-- **HEBSEC Tech**
-  - Network Security & Ethical Hacking
-
-- **Hackup Technology**
-  - Advanced Cybersecurity & Ethical Hacking
-
----
-
-# 📊 GITHUB SECURITY DASHBOARD
+# 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi0313&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi0313&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi0313&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🧬 CONTRIBUTION MATRIX
-
-![snake gif](https://github.com/vaishnavi0313/vaishnavi0313/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 📫 CONNECT WITH ME
-
-📧 vaishnavikannan036@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/vaishnavi0313  
-💻 GitHub: https://github.com/vaishnavi0313  
-
----
-
-# ⚡ SECURITY PRINCIPLE
-
-> "Security is not a product — it is a continuous process."
+⭐ Exploring cybersecurity, building secure systems, and continuously learning to defend against modern cyber threats.
