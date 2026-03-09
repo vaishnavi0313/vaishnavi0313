@@ -137,27 +137,29 @@ Security Practice Environments
 
 # 🎖 Certifications
 
-### Palo Alto Networks
+## Cisco Networking Academy
 
-Security Operations Fundamentals  
-Issued: February 9, 2026
-
----
-
-### Red Team Leaders
-
-Certified Cybersecurity Educator Professional (CCEP)  
-Issued: November 24, 2025
+<p align="center">
+<img src="images/networking-basics.png" width="250"/>
+<img src="images/iot-cert.jpeg" width="250"/>
+<img src="images/cybersecurity-cert.jpeg" width="250"/>
+</p>
 
 ---
 
-### Cisco Networking Academy
+## Palo Alto Networks
 
-Introduction to Cybersecurity
+<p align="center">
+<img src="images/paloalto-cert.png" width="350"/>
+</p>
 
-Introduction to Internet of Things
+---
 
-Networking Basics
+## Red Team Leaders
+
+<p align="center">
+<img src="images/ccep-cert.png" width="350"/>
+</p>
 
 ---
 
